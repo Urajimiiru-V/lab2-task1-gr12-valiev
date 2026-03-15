@@ -1,6 +1,6 @@
 # Overview
 
-It is public template of assignment `"labrabota 3"` for FPMI students
+It is public template of assignment `"labrabota 2"` for FPMI students
 
 # Usage
 
